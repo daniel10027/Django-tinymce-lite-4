@@ -1,9 +1,8 @@
-# Django-tinymce-lite-4
-Django 
+# django-tinymce4-lite
 
+## Installatioon de tinymce4 django
 
-django-tinymce4-lite
-Installatioon de tinymce4 django
+```bash
 1.
 pip install django-tinymce4-lite
 
@@ -97,3 +96,7 @@ class MyModel(models.Model):
 ## lancer les static
 
 python manage.py collectstatic
+
+```
+
+### 
